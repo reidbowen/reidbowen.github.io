@@ -1796,7 +1796,6 @@ input, select, textarea {
 			font-weight: 600;
 			letter-spacing: 0.25em;
 			margin-bottom: 0;
-			text-transform: uppercase;
 		}
 
 		body.is-ie header.major > :first-child:after {
@@ -1896,7 +1895,6 @@ input, select, textarea {
 		font-weight: 600;
 		letter-spacing: 0.25em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
 	}
 
 	input[type="text"],
@@ -2528,7 +2526,6 @@ input, select, textarea {
 		padding: 0 1.75em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
 		white-space: nowrap;
 	}
 
@@ -3124,7 +3121,7 @@ input, select, textarea {
 		line-height: 3.25em;
 		margin: 0;
 		position: fixed;
-		text-transform: uppercase;
+
 		top: 0;
 		width: 100%;
 		z-index: 10000;
@@ -3477,7 +3474,7 @@ input, select, textarea {
 					font-size: 0.7em;
 					font-weight: 600;
 					letter-spacing: 0.25em;
-					text-transform: uppercase;
+					
 				}
 
 		#banner.major {
@@ -3861,7 +3858,6 @@ input, select, textarea {
 						letter-spacing: 0.25em;
 						line-height: 4em;
 						text-decoration: none;
-						text-transform: uppercase;
 					}
 
 					#menu ul.links > li > .button {
